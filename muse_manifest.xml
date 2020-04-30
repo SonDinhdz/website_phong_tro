@@ -1,0 +1,61 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="website_ThucTap.edu.vn" resolutions="1x" timestamp="1588078652942">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="4249179948" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="380897831" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="logo-01.png" crc="242891821" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="brandon-griggs-wr11kbab86u-unsplash.jpg" crc="31333847" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="home.png" crc="290517032" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="local.png" crc="4158323471" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="secury.png" crc="152927976" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="wifi.jpg" crc="4136801289" ref="index"/>
+    <file name="wifi-u262-fr.jpg" crc="4235455296" ref="index"/>
+    <file name="2.jpg" crc="4247573865" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6.jpg" crc="3991391396" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="7.jpg" crc="4017351929" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3.jpg" crc="4198401780" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4.jpg" crc="4114321631" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5.jpg" crc="480008777" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nen.jpg" crc="4118437151" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="footer.jpg" crc="4081712026" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="404141317" seo="true" mt="1588078646865" redirect="true"/>
+</manifest>
