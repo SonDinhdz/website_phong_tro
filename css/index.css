@@ -29,7 +29,7 @@
 #buttonu125:hover{background-color:#48CFF4;width:153px;height:33px;min-height:0px;margin:0px 0px 0px 423px;}
 #buttonu125.ButtonSelected{background-color:#21B9F4;width:153px;height:33px;min-height:0px;margin:0px 0px 0px 423px;}
 #u3089-4{z-index:205;width:144px;min-height:25px;background-color:transparent;line-height:24px;font-size:20px;text-align:center;color:#FFFFFF;font-weight:bold;position:relative;margin-right:-10000px;margin-top:10px;left:5px;}
-#buttonu125:hover #u3089-4{padding-top:0px;padding-bottom:0px;min-height:25px;width:144px;margin:8px -10000px 0px 0px;}
+#buttonu125:hover #u3089-4{padding-top:0px;padding-bottom:0px;min-height:25px;width:144px;margin:10px -10000px 0px 0px;}
 #buttonu125.ButtonSelected #u3089-4{padding-top:0px;padding-bottom:0px;min-height:25px;width:144px;margin:8px -10000px 0px 0px;}
 #ppu128{z-index:0;width:0.01px;margin-right:-10000px;margin-top:53px;margin-left:-100px;}
 #pu128{z-index:53;width:0.01px;}
@@ -40,7 +40,7 @@
 #buttonu132:hover{background-color:#82D5F4;width:187px;height:41px;min-height:0px;margin:393px -10000px 0px 0px;}
 #buttonu132.ButtonSelected{background-color:#21B9F4;width:187px;height:41px;min-height:0px;margin:393px -10000px 0px 0px;}
 #u3092-4{z-index:60;width:187px;min-height:33px;background-color:transparent;line-height:29px;font-size:24px;text-align:center;color:#FFFFFF;font-family:UTM Avo;font-weight:bold;position:relative;margin-right:-10000px;margin-top:9px;}
-#buttonu132:hover #u3092-4{background-color:transparent;padding-top:0px;padding-bottom:0px;min-height:33px;width:187px;margin:11px -10000px 0px 0px;}
+#buttonu132:hover #u3092-4{background-color:transparent;padding-top:0px;padding-bottom:0px;min-height:33px;width:187px;margin:9px -10000px 0px 0px;}
 #buttonu132.ButtonSelected #u3092-4{background-color:transparent;padding-top:0px;padding-bottom:0px;min-height:33px;width:187px;margin:8px -10000px 0px 0px;}
 #trangchu{position:relative;margin-right:-10000px;width:22px;}
 #u1099{z-index:168;width:1299px;border-width:0px;border-color:transparent;background-color:transparent;position:relative;margin-right:-10000px;margin-top:523px;left:67px;}
