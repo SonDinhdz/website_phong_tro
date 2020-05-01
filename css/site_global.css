@@ -82,3 +82,4 @@ p,h1,h2,h3,h4,h5,h6,ol,ul,span.actAsPara{max-height:1000000px;}
 .chiphi{transition : 0.4s;transform-origin : center;}
 .chiphi:hover{transform:scale(1.1);}
 .InputBox i {color: #21b9f4;}
+.InputBox {margin-top: 25px;}

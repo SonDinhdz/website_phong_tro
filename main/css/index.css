@@ -7,7 +7,7 @@
 #u105{z-index:3;width:1270px;height:592px;background-color:#FFFFFF;position:relative;margin-right:-10000px;margin-top:333px;}
 #u111{z-index:4;width:777px;height:430px;border-style:solid;border-width:2px;border-color:#21B9F4;background-color:#FFFFFF;border-radius:50px;position:relative;margin-right:-10000px;margin-top:406px;left:268px;}
 #u166-4{z-index:5;width:411px;min-height:50px;background-color:#FFFFFF;color:#21B9F4;line-height:43px;text-align:center;font-size:36px;font-weight:bold;position:relative;margin-right:-10000px;margin-top:383px;left:378px;}
-#u108{z-index:10;width:250px;height:300px; border-width:0px;box-shadow: 1px 1px 6px black; border-color:#000000;background-color:#FFFFFF;border-radius:5px;position:relative;margin-right:-10000px;margin-top:243px;left:145px;}
+#u108{z-index:10;width:250px;height:300px;color: #3f3d3d; border-width:0px;box-shadow: 1px 1px 6px black; border-color:#3f3d3d;background-color:#FFFFFF;border-radius:5px;position:relative;margin-right:-10000px;margin-top:243px;left:145px;}
 #u129-4{z-index:11;width:73px;min-height:82px;background-color:transparent;line-height:86px;font-size:72px;font-family:'__Font Awesome 5 Free_5';font-weight:900;position:relative;margin-right:-10000px;margin-top:16px;left: 35%;}
 #u135-4{z-index:15;width:104px;min-height:22px;background-color:transparent;text-align:center;font-weight:bold;position:relative;margin-right:-10000px;margin-top:103px;left:72px;}
 #u138-4{z-index:19;width:171px;min-height:30px;background-color:transparent;position:relative;margin-right:-10000px;margin-top:125px;left:45px;}
@@ -33,40 +33,40 @@
 #u184-5{z-index:53;width:448px;min-height:52px;background-color:transparent;color:#21B9F4;line-height:43px;font-size:36px;font-family:'__Font Awesome 5 Free_5';font-weight:900;position:relative;margin-right:-10000px;margin-top:320px;left:200px;}
 #u175-3,#u178-3,#u181-3,#u184-3{line-height:0px;}
 #u175,#u178,#u181,#u184{line-height:43px;}
-#u175-2,#u178-2,#u181-2,#u184-2{font-size:30px;font-family:UTM Avo;line-height:36px;color: black;}
+#u175-2,#u178-2,#u181-2,#u184-2{font-size:30px;font-family:UTM Avo;line-height:36px;color:#3f3d3d;}
 #pu187{z-index:58;width:0.01px;}
 #u187{z-index:58;width:1270px;height:624px;position:relative;margin-right:-10000px;background-color: #FFFFFF;}
 .ie #u187{background-color:#FFFFFF;opacity:0.01;-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";filter:alpha(opacity=1);}
 #u190-4{z-index:59;width:372px;min-height:77px;background-color:transparent;color:#21B9F4;line-height:48px;text-align:center;font-size:40px;position:relative;margin-right:-10000px;left:66px;}
 #u226{z-index:63;width:267px;border-width:0px;border-color:transparent;background-color:transparent;position:relative;margin-right:-10000px;margin-top:114px;left:119px;}
-#u193{z-index:64;width:265px;height:159px;border-style:solid;border-width:1px;border-color:#21B9F4;background-color:transparent;position:relative;margin-right:-10000px;}
+#u193{z-index:64;width:265px;height:159px;border-style:solid;border-width:1px;border-color:#21B9F4;color: #3f3d3d; background-color:transparent;position:relative;margin-right:-10000px;}
 #u217-4{z-index:65;width:48px;min-height:55px;border-width:0px;border-color:#21B9F4;background-color:transparent;line-height:58px;text-align:center;font-size:48px;font-family:'__Font Awesome 5 Free_5';font-weight:900;position:relative;margin-right:-10000px;margin-top:22px;left:109px;}
 #u220-4{z-index:69;width:157px;min-height:33px;border-width:0px;border-color:#21B9F4;background-color:transparent;text-align:center;font-size:18px;line-height:22px;position:relative;margin-right:-10000px;margin-top:90px;left:55px;}
 #u280{z-index:73;width:267px;border-width:0px;border-color:transparent;background-color:transparent;position:relative;margin-right:-10000px;margin-top:372px;left:119px;}
-#u282{z-index:74;width:265px;height:159px;border-style:solid;border-width:1px;border-color:#21B9F4;background-color:transparent;position:relative;margin-right:-10000px;}
+#u282{z-index:74;width:265px;height:159px;border-style:solid;border-width:1px;border-color:#21B9F4;color: #3f3d3d; background-color:transparent;position:relative;margin-right:-10000px;}
 #u283-4{z-index:75;width:48px;min-height:55px;border-width:0px;border-color:#21B9F4;background-color:transparent;line-height:58px;text-align:center;font-size:48px;font-family:'__Font Awesome 5 Brands_5';font-weight:400;position:relative;margin-right:-10000px;margin-top:22px;left:109px;}
 #u281-4{z-index:79;width:157px;min-height:33px;border-width:0px;border-color:#21B9F4;background-color:transparent;text-align:center;font-size:18px;line-height:22px;position:relative;margin-right:-10000px;margin-top:90px;left:55px;}
 #u256{z-index:83;width:267px;border-width:0px;border-color:transparent;background-color:transparent;position:relative;margin-right:-10000px;margin-top:372px;left:501px;}
-#u258{z-index:84;width:265px;height:159px;border-style:solid;border-width:1px;border-color:#21B9F4;background-color:transparent;position:relative;margin-right:-10000px;}
+#u258{z-index:84;width:265px;height:159px;border-style:solid;border-width:1px;border-color:#21B9F4;color: #3f3d3d; background-color:transparent;position:relative;margin-right:-10000px;}
 #u259-4{z-index:85;width:48px;min-height:55px;border-width:0px;border-color:#21B9F4;background-color:transparent;line-height:58px;text-align:center;font-size:48px;font-family:'__Font Awesome 5 Free_5';font-weight:900;position:relative;margin-right:-10000px;margin-top:22px;left:109px;}
 #u257-4{z-index:89;width:157px;min-height:33px;border-width:0px;border-color:#21B9F4;background-color:transparent;text-align:center;font-size:18px;line-height:22px;position:relative;margin-right:-10000px;margin-top:90px;left:55px;}
 #u268{z-index:93;width:267px;border-width:0px;border-color:transparent;background-color:transparent;position:relative;margin-right:-10000px;margin-top:372px;left:884px;}
-#u270{z-index:94;width:265px;height:159px;border-style:solid;border-width:1px;border-color:#21B9F4;background-color:transparent;position:relative;margin-right:-10000px;}
+#u270{z-index:94;width:265px;height:159px;border-style:solid;border-width:1px;border-color:#21B9F4;color: #3f3d3d; background-color:transparent;position:relative;margin-right:-10000px;}
 #u271-4{z-index:95;width:48px;min-height:55px;border-width:0px;border-color:#21B9F4;background-color:transparent;line-height:58px;text-align:center;font-size:48px;font-family:'__Font Awesome 5 Free_5';font-weight:900;position:relative;margin-right:-10000px;margin-top:22px;left:109px;}
 #u269-4{z-index:99;width:157px;min-height:33px;border-width:0px;border-color:#21B9F4;background-color:transparent;text-align:center;font-size:18px;line-height:22px;position:relative;margin-right:-10000px;margin-top:90px;left:55px;}
 #u244{z-index:103;width:267px;border-width:0px;border-color:transparent;background-color:transparent;position:relative;margin-right:-10000px;margin-top:114px;left:884px;}
-#u246{z-index:104;width:265px;height:159px;border-style:solid;border-width:1px;border-color:#21B9F4;background-color:transparent;position:relative;margin-right:-10000px;}
+#u246{z-index:104;width:265px;height:159px;border-style:solid;border-width:1px;border-color:#21B9F4;color: #3f3d3d; background-color:transparent;position:relative;margin-right:-10000px;}
 #u247-4{z-index:105;width:48px;min-height:55px;border-width:0px;border-color:#21B9F4;background-color:transparent;line-height:58px;text-align:center;font-size:48px;font-family:'__Font Awesome 5 Free_5';font-weight:900;position:relative;margin-right:-10000px;margin-top:22px;left:109px;}
 #u245-4{z-index:109;width:157px;min-height:33px;border-width:0px;border-color:#21B9F4;background-color:transparent;text-align:center;font-size:18px;line-height:22px;position:relative;margin-right:-10000px;margin-top:90px;left:55px;}
 #u229{z-index:113;width:267px;border-width:0px;border-color:transparent;background-color:transparent;position:relative;margin-right:-10000px;margin-top:114px;left:501px;}
-#u231{z-index:114;width:265px;height:159px;border-style:solid;border-width:1px;border-color:#21B9F4;background-color:transparent;position:relative;margin-right:-10000px;}
+#u231{z-index:114;width:265px;height:159px;border-style:solid;border-width:1px;border-color:#21B9F4;color: #3f3d3d; background-color:transparent;position:relative;margin-right:-10000px;}
 #u193:hover,#u282:hover,#u258:hover,#u270:hover,#u246:hover,#u231:hover{border-style:solid;border-width:1px;border-color:#21B9F4;background-color:transparent;width:265px;height:159px;min-height:0px;margin:0px -10000px 0px 0px;}
 #u232-4{z-index:115;width:48px;min-height:55px;border-width:0px;border-color:#21B9F4;background-color:transparent;line-height:58px;text-align:center;font-size:48px;font-family:'__Font Awesome 5 Free_5';font-weight:900;position:relative;margin-right:-10000px;margin-top:22px;left:109px;}
 #u217-4:hover,#u283-4:hover,#u259-4:hover,#u271-4:hover,#u247-4:hover,#u232-4:hover{background-color:transparent;padding-top:0px;padding-bottom:0px;min-height:55px;width:48px;margin:22px -10000px 0px 0px;}
 #u230-4{z-index:119;width:157px;min-height:33px;border-width:0px;border-color:#21B9F4;background-color:transparent;text-align:center;font-size:18px;line-height:22px;position:relative;margin-right:-10000px;margin-top:90px;left:55px;}
 #u220-4:hover,#u281-4:hover,#u257-4:hover,#u269-4:hover,#u245-4:hover,#u230-4:hover{background-color:transparent;padding-top:0px;padding-bottom:0px;min-height:33px;width:157px;margin:90px -10000px 0px 0px;}
 .css_verticalspacer .verticalspacer{height:calc(100vh - 1487px);}
-#u292-4{z-index:123;min-height:62px;background-color:#EFEFEC;text-indent:100px;line-height:49px;font-weight:bold;}
+#u292-4{z-index:123;min-height:62px;background-color:#7F7F7F;text-indent:100px;line-height:49px;font-weight:bold;color: #FFFFFF;padding-top: 10px;}
 .js body{visibility:hidden;}
 .js body.initialized{visibility:visible;}
 #u292-4-bw{z-index:123;min-height:62px;margin-top:-66px;}
