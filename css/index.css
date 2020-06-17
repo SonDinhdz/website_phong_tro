@@ -1,7 +1,7 @@
 .version.index{color:#0000FD;background-color:#45572C;}
 #page{z-index:1;width:1200px;min-height:3192px;background-image:none;border-width:0px;border-color:#000000;background-color:#FFFFFF;opacity:1;-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";filter:alpha(opacity=100);margin-left:auto;margin-right:auto;}
 #u1248{z-index:203;width:1400px;height:64px;border-width:0px;background-color:#FFFFFF;position:fixed;top:-2px;left:50%;margin-left:-700px;}
-#u95{z-index:234;width:90px;height:50px;border-width:0px;opacity:1;-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";filter:alpha(opacity=100);position:fixed;top:6px;left:50%;margin-left:-652px;background:transparent url("../images/logo-01.png?crc=242891821") no-repeat left top;background-size:contain;}
+#u95{z-index:234;width:90px;height:50px;border-width:0px;opacity:1;-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";filter:alpha(opacity=100);position:fixed;top:6px;left:50%;margin-left:-600px;background:transparent url("../images/logo-01.png?crc=242891821") no-repeat left top;background-size:contain;}
 #menuu96{z-index:209;width:768px;height:66px;border-width:0px;background-color:transparent;position:fixed;top:-4px;left:50%;margin-left:-407px;}
 #u111{width:192px;min-height:65px;border-width:0px;background-color:transparent;padding-bottom:1px;position:relative;margin-right:-10000px;}
 #u114{width:192px;border-width:0px;background-color:transparent;padding-bottom:41px;position:relative;}
@@ -40,7 +40,7 @@
 #buttonu132:hover{background-color:#82D5F4;width:187px;height:41px;min-height:0px;margin:393px -10000px 0px 0px;}
 #buttonu132.ButtonSelected{background-color:#21B9F4;width:187px;height:41px;min-height:0px;margin:393px -10000px 0px 0px;}
 #u3092-4{z-index:60;width:187px;min-height:33px;background-color:transparent;line-height:29px;font-size:24px;text-align:center;color:#FFFFFF;font-family:UTM Avo;font-weight:bold;position:relative;margin-right:-10000px;margin-top:9px;}
-#buttonu132:hover #u3092-4{background-color:transparent;padding-top:0px;padding-bottom:0px;min-height:33px;width:187px;margin:9px -10000px 0px 0px;}
+#buttonu132:hover #u3092-4{background-color:transparent;padding-top:0px;padding-bottom:0px;min-height:33px;width:187px;margin:9px -10000px 0px 0px;cursor: pointer;}
 #buttonu132.ButtonSelected #u3092-4{background-color:transparent;padding-top:0px;padding-bottom:0px;min-height:33px;width:187px;margin:8px -10000px 0px 0px;}
 #trangchu{position:relative;margin-right:-10000px;width:22px;}
 #u1099{z-index:168;width:1299px;border-width:0px;border-color:transparent;background-color:transparent;position:relative;margin-right:-10000px;margin-top:523px;left:67px;}
@@ -62,6 +62,7 @@
 #u259{z-index:14;width:1161px;height:334px;position:relative;margin-right:-10000px;margin-top:1px;}
 #u262{z-index:15;width:268px;height:153px;opacity:1;-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";filter:alpha(opacity=100);position:relative;margin-right:-10000px;margin-top:1px;left:1px;background:transparent url("../images/wifi-u262-fr.jpg?crc=4235455296") no-repeat left top;background-size:contain;}
 .control{border-width:0px;border-color:#000000;background:transparent url("../images/wifi.jpg?crc=4136801289") no-repeat left top;background-size:contain;}
+.control:hover{cursor: pointer;}
 #u277{z-index:16;width:268px;height:153px;opacity:1;-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";filter:alpha(opacity=100);position:relative;margin-right:-10000px;margin-top:182px;left:149px;background:transparent url("../images/2.jpg?crc=4247573865") no-repeat left top;background-size:contain;}
 #u280{z-index:17;width:268px;height:153px;opacity:1;-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";filter:alpha(opacity=100);position:relative;margin-right:-10000px;margin-top:182px;left:445px;background:transparent url("../images/6.jpg?crc=3991391396") no-repeat left top;background-size:contain;}
 #u283{z-index:18;width:268px;height:153px;opacity:1;-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";filter:alpha(opacity=100);position:relative;margin-right:-10000px;margin-top:182px;left:744px;background:transparent url("../images/7.jpg?crc=4017351929") no-repeat left top;background-size:contain;}
@@ -116,6 +117,7 @@
 #buttonu732{z-index:156;width:187px;height:43px;border-width:0px;background-color:#21B9F4;padding-bottom:7px;margin-left:56px;margin-top:7px;position:relative;border-radius: 5px;}
 #buttonu732:hover{background-color:#69DAF4;width:187px;height:43px;min-height:0px;margin:7px 0px 0px 56px;}
 #buttonu732.ButtonSelected{background-color:#21B9F4;width:187px;height:43px;min-height:0px;margin:7px 0px 0px 56px;}
+.Button:hover{cursor: pointer!important;}
 #u3197-4{z-index:157;width:159px;min-height:34px;background-color:transparent;font-size:30px;text-align:center;color:#FFFFFF;line-height:36px;position:relative;margin-right:-10000px;margin-top:7px;left:15px;}
 #buttonu705.ButtonSelected #u3194-4,#buttonu732:hover #u3197-4{padding-top:0px;padding-bottom:0px;min-height:34px;width:159px;margin:7px -10000px 0px 0px;}
 #buttonu732.ButtonSelected #u3197-4{padding-top:0px;padding-bottom:0px;min-height:34px;width:159px;margin:7px -10000px 0px 0px;}
@@ -155,7 +157,7 @@ body{position:relative;min-width:1200px;}
 #login .field-wrap input{width: 93.5%;margin-top: 2%;}
 #login .field-wrap{margin-top: 0;}
 #login div #sub{margin-top: 2%;background-color: #21b9f4;padding: 3px;border-radius: 5px;width: 150px;border: none;color: white;font-weight: bold;font-size: 18px;font-family: "UTM Avo";}
-#login div #sub:hover{background-color: #6dd5fd;}
+#login div #sub:hover{background-color: #6dd5fd; cursor: pointer;}
 #ab {padding-top: 20%;}
 #u422 .InputBox{display: flex;border-bottom: 1px rgb(33,185,244) solid;height: 40px;}
 #u422 .InputBox i{font-size: 24px;margin-top: 5px;}
@@ -164,5 +166,8 @@ body{position:relative;min-width:1200px;}
 #u422 .Flex label{color: #21B9F4;}
 #u422 .Flex a{position: absolute;right: 0px;text-decoration: none;color: #21B9F4;}
 .go{width: 100%;background-color: #21b9f4;height: 50px;border-width: 0px;color: white;font-weight: bold;font-size: 25px;border-radius: 10px 10px 10px 10px;margin-top: 15px;}
-.go:hover{background-color:#6dd5fd;}
+.go:hover{background-color:#6dd5fd;cursor: pointer;}
 #foot i{font-size: 30px;padding:5px;margin-left: 45px;color: #FFFFFF;}
+.fa-user,.fa-lock{font-size: 20px;margin-top: 5px; margin-left: 5px;}
+.falink{font-size: 40px;padding: 28px;color: white;}
+.falink:hover{cursor: pointer;color: red;}
