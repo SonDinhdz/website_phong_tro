@@ -156,18 +156,19 @@ body{position:relative;min-width:1200px;}
 #login div .wrap {width: 44%;margin-right: 3%;}
 #login .field-wrap input{width: 93.5%;margin-top: 2%;}
 #login .field-wrap{margin-top: 0;}
-#login div #sub{margin-top: 2%;background-color: #21b9f4;padding: 3px;border-radius: 5px;width: 150px;border: none;color: white;font-weight: bold;font-size: 18px;font-family: "UTM Avo";}
+#login div #sub{margin-top: 2%;background-color: #21b9f4;padding: 2px; border-radius: 5px;width: 150px;border: none;color: white;font-weight: bold;font-size: 18px;font-family: "UTM Avo";}
 #login div #sub:hover{background-color: #6dd5fd; cursor: pointer;}
 #ab {padding-top: 20%;}
 #u422 .InputBox{display: flex;border-bottom: 1px rgb(33,185,244) solid;height: 40px;}
 #u422 .InputBox i{font-size: 24px;margin-top: 5px;}
-#u422 .InputBox input{outline: none;border: none;width: 90%;font-size: 12px;padding: 0 20px;color: #00cccc;}
+#u422 .InputBox input{outline: none;border: none;width: 90%;font-size: 12px;padding: 0 20px;}
+#u422 .InputBox input::-webkit-input-placeholder{color: #21B9F4;}
 #u422 .Flex{display: flex;margin-top: 40px;position: relative;}
 #u422 .Flex label{color: #21B9F4;}
 #u422 .Flex a{position: absolute;right: 0px;text-decoration: none;color: #21B9F4;}
 .go{width: 100%;background-color: #21b9f4;height: 50px;border-width: 0px;color: white;font-weight: bold;font-size: 25px;border-radius: 10px 10px 10px 10px;margin-top: 15px;}
 .go:hover{background-color:#6dd5fd;cursor: pointer;}
 #foot i{font-size: 30px;padding:5px;margin-left: 45px;color: #FFFFFF;}
-.fa-user,.fa-lock{font-size: 20px;margin-top: 5px; margin-left: 5px;}
-.falink{font-size: 40px;padding: 28px;color: white;}
+.fa-user,.fa-lock{font-size: 20px;margin-top: 5px; margin-left: 5px;color: #21B9F4;}
+.falink{font-size: 40px;padding: 3.5px 28px 28px 28px;color: white;}
 .falink:hover{cursor: pointer;color: red;}
